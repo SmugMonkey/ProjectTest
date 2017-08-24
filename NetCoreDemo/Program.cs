@@ -12,7 +12,7 @@ namespace NetCoreDemo
         public static void Main(string[] args)
         {
 
-            var test = "firsttest";
+            var test = "firsttest111";
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
